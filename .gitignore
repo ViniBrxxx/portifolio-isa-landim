@@ -1,0 +1,6 @@
+# Originais brutos (pesados) — a página usa apenas assets/web/
+assets/*
+!assets/web/
+Thumbs.db
+desktop.ini
+.DS_Store
